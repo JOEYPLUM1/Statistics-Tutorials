@@ -2,7 +2,9 @@
 title: "A Brief Introduction to Statistics in Research"
 author: "Joseph Plummer"
 date: "8/18/2021"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
